@@ -5,7 +5,7 @@
 https://www.hltv.org/stats/matches?startDate=all
 
 ## Project Presentation:
-
+https://www.canva.com/design/DAD9aESRGAs/WbP7Oa99LHZ8ILX3rde5lA/view?utm_content=DAD9aESRGAs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 ### Project Details:
 This project consist of rating and ranking teams.
@@ -85,15 +85,12 @@ Predicting which team will win.
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
-3. Webscrapper: Anh_Team_Web_Scrapper.ipynb
-4. Teams_webscrapped (2012-2020): CSGO_TEAMS.csv
-5. Data Cleaning: CSGO_DataFrame_Cleaning.ipynb
-6. Teams_rank: CSGO_TEAMS_RANKS.csv
-7. Teams_matches (after data cleaning): CSGO_TEAMS_MATCHES.csv
-8. Model/Predictions: CSGO_Win_Predictions.ipynb
-9. Win Predictions: CSGO_Win_Prediction.ipyb
-
+2. Webscrapper: Anh_Team_Web_Scrapper.ipynb
+3. Teams_webscrapped (2012-2020): CSGO_TEAMS.csv
+4. Data Cleaning: CSGO_DataFrame_Cleaning.ipynb
+5. Teams_rank: CSGO_TEAMS_RANKS.csv
+6. Teams_matches (after data cleaning): CSGO_TEAMS_MATCHES.csv
+7. Model/Predictions: CSGO_Win_Predictions.ipynb
 
 
 #### Project Members:
