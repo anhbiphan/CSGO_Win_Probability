@@ -98,6 +98,6 @@ Predicting which team will win.
 
 #### Project Members:
 
-|Github: [Anh Phan](https://github.com/anhbiphan)|
+|Github: [Anh Phan](https://github.com/anhbiphan)
 
-|Linkedin: https://www.linkedin.com/in/anh-phan-40a8b166/|
+|Linkedin: https://www.linkedin.com/in/anh-phan-40a8b166/
