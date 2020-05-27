@@ -14,7 +14,7 @@ Predicting which team will win.
 
 
 #### Goals  
-- The goal of the project is to  prediction which team will win from a match. We will be using match history to collect wins and loses. We will also rate the team based on their win/lose. After obtaning the win/lose rating and ranking of teams, we can then predict game outcomes for matches. 
+- The goal of the project is to  prediction which team will win from a match. I will be using match history to collect wins and losses. I will also rate the team based on their win/loss. After obtaning the win/lose rating and ranking of teams, I can then predict game outcomes for matches. 
 
 ## Project Findings:
 - Based on rank and win/lose the models have a hard time predicting the correct winners. Situations where lower ranked teams beating higher ranked teams were incorrectly predicted. 
@@ -30,13 +30,13 @@ Predicting which team will win.
 #### Solutions:
 - Create or find more features.
 - Collect data only for active teams.
-- Account for player skills on maps and weapons. (TrueSkill rate plalyers)
-- Obtain team win/lose on maps.
+- Account for player skills on maps and weapons. (TrueSkill rate players)
+- Obtain team win/loss on maps.
 
 #### Recommendations for further developments:
 - Have an updated team rating based on player rating.
 - Include in-game weapon skills of players.
-- Apply average player skills as team rating.
+- Apply average of total player skills as team rating.
 - Account for players switching to different teams and updating team rating.
 - Improve model.
 
@@ -66,8 +66,9 @@ Predicting which team will win.
 * Python
 * Pandas, Jupyter
 * Numpy
+* Selenium
 * Scikit learn
-* TrueSkill
+* Microsoft TrueSkill
 
 
 ## Needs of this project
@@ -79,7 +80,7 @@ Predicting which team will win.
 - predicting which team will win
 - collecting team win/lose counts
 - sorting through team matach history
-- event teams have played in
+- events teams have played in
 
 
 ## Getting Started
