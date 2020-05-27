@@ -98,7 +98,7 @@ Predicting which team will win.
 
 #### Project Members:
 
-|Name     |  Github   | 
+|  Github   | 
 |---------|-----------------|
 |[Anh Phan](https://github.com/anhbiphan)
 |Linkedin |
