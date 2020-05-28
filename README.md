@@ -9,8 +9,7 @@ https://www.canva.com/design/DAD9aESRGAs/WbP7Oa99LHZ8ILX3rde5lA/view?utm_content
 
 ### Project Details:
 This project consist of rating and ranking teams.
-Predicting win probabilities for teams.
-Predicting which team will win.
+Predicting which team will win from match.
 
 
 #### Goals  
